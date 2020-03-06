@@ -1,0 +1,17 @@
+{
+    "name": "vigeoip/iptogeo",
+    "description": "This package will get geo information from IP address",
+    "authors": [
+        {
+            "name": "Vivek Kumar",
+            "email": "choudhary.vivek18@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+     "autoload": {
+            "psr-4": {
+                "Vigeoip\\Geoip\\": "src/"
+            }
+        }
+}
